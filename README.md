@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&duration=4000&pause=1000&color=F72CE4&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Hello+World!;+I+am+nana!"/>
 </h1>
-<h3 align="center">A passionate newbie programmer from Philippines PH</h3>
+<h3 align="center">A passionate newbie programmer from Philippines 🇵🇭</h3>
 
 <br/>
 
