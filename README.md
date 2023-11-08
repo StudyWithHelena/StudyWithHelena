@@ -16,4 +16,15 @@
  ⚡ Fun fact **Only 5% of the ocean is discovered, mermaids might be real!**
  
  </div>
+
+  </div>
  
+<div align="center"> 
+  <a href="https://www.facebook.com/profile.php?id=100078764802686">
+    <img src="https://img.shields.io/badge/facebook-333333?style=for-the-badge&logo=facebook&logoColor=white+outside+blue+inside" />
+  </a>
+  <a href="https://www.youtube.com/@studywithhelena676" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=Youtube=red" target="_blank" />
+  </a>
+</div>
+
