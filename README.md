@@ -16,15 +16,25 @@
  ⚡ Fun fact **Only 5% of the ocean is discovered, mermaids might be real!**
  
  </div>
-
-  </div>
  
 <div align="center"> 
-  <a href="https://www.facebook.com/profile.php?id=100078764802686">
-    <img src="https://img.shields.io/badge/facebook-333333?style=for-the-badge&logo=facebook&logoColor=white+outside+blue+inside" />
+  <a href="mailto:theahelenacaballero123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.youtube.com/@studywithhelena676" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=Youtube=red" target="_blank" />
+  <a href="https://www.linkedin.com/in/thea-caballero-375b2b29a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 This is not My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
