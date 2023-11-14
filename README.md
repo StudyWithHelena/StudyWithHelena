@@ -14,7 +14,6 @@
  🌱 I’m currentl learning **Unreal Engine 5, Command Line, C++**
 
  ⚡ Fun fact **Only 5% of the ocean is discovered, mermaids might be real!**
- 
  </div>
  
 <div align="center"> 
