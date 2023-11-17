@@ -11,7 +11,7 @@
  
  🔭 I’m currently studying on **Calasanz de Davao Academy**
  
- 🌱 I’m currentl learning **Unreal Engine 5, Command Line, C++**
+ 🌱 I’m currentl learning **Unreal Engine 5, Trading, Command Line, C++**
 
  ⚡ Fun fact **Only 5% of the ocean is discovered, mermaids might be real!**
  </div>
