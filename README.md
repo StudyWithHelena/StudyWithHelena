@@ -11,9 +11,9 @@
  
  🔭 I’m currently studying on **Calasanz de Davao Academy**
  
- 🌱 I’m currentl learning **Unreal Engine 5, Trading, Command Line, C++**
+ 🌱 I’m currently learning **Unreal Engine 5, Trading, Command Line, C++**
 
- ⚡ Fun fact **Only 5% of the ocean is discovered, mermaids might be real!**
+ ⚡ Fun fact **In 2006, a Coca-Cola employee offered to sell Coca-Cola secrets to Pepsi. Pepsi responded by notifying Coca-Cola.**
  </div>
  
 <div align="center"> 
