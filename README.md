@@ -10,9 +10,7 @@
 <div align="center">
  
  🔭 I’m currently studying on **Calasanz de Davao Academy**
- 
  🌱 I’m currently learning **Unreal Engine 5, Trading, Command Line, C++**
-
  ⚡ Fun fact **In 2006, a Coca-Cola employee offered to sell Coca-Cola secrets to Pepsi. Pepsi responded by notifying Coca-Cola.**
  </div>
  
