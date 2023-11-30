@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying on **Calasanz de Davao Academy**
+🔭 I’m currently studying on **Calasanz de Davao Academy**
  
  🌱 I’m currently learning **Unreal Engine 5, Trading, Command Line, C++**
  
